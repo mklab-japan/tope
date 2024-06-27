@@ -1,6 +1,6 @@
 ---
 layout: default
-titile: "実験一覧"
+title: experiments
 has_chidlren: true
 ---
 

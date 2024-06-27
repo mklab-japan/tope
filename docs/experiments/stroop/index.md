@@ -1,7 +1,7 @@
 ---
 layout: default
-titile: `ストループ課題`
-paraent: "実験一覧"
+titile: stroop
+parent: experiments
 ---
 
 # ストループ課題
