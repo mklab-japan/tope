@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Experiments
+title: "実験一覧"
 has_children: true
 nav_order: 2
 ---
