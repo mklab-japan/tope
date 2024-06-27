@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Experiments
-has_chidlren: true
+has_children: true
 ---
 
 # 実験一覧
