@@ -1,5 +1,5 @@
-title: Open Psychological Experiments
-description: You can participate in open psychological experiments
+title: OPE
+description: Open Psychological Experiments
 theme: just-the-docs
 
 url: https://mklab-japan.github.io/ope
@@ -8,3 +8,5 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 color_scheme: ope
+
+nav_enabled: true
