@@ -1,6 +1,6 @@
 ---
 layout: default
-titile: "ストループ課題"
+titile: `ストループ課題`
 paraent: "実験一覧"
 ---
 
