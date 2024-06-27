@@ -10,7 +10,7 @@ nav_order: 1
 
 ## Trinity Open Psychology Experiments Projectとは
 
-本プロジェクトは以下のような3つの目標を達成することを目指します。3つ目標は相互に密接に関連しているため，本プロジェクトに「三位一体」の名を冠し，三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）と名づけました。
+本プロジェクトは以下のような3つの目標を達成することを目指します。3つの目標は相互に密接に関連しているため，本プロジェクトに「三位一体」の名を冠し，三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）と名づけました。
 
 ### 1. オープンなオンライン心理学実験の実施環境（Open Experiment）
 
@@ -23,6 +23,10 @@ nav_order: 1
 ### 3. オープンなオンライン心理学実験データ（Open Data）
 
 オンライン実験で収集したデータの公開（提供）を目指します。
+
+### ライセンス
+
+実験プログラムにはMITライセンスを適用しています。データにはCC-By Attribution 4.0 Internationalを適用しています。各ライセンスに沿った適切な利用をお願いいたします。
 
 ### 注意事項
 
