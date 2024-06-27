@@ -1,6 +1,6 @@
 ---
 layout: default
-title: experiments
+title: Experiments
 has_chidlren: true
 ---
 

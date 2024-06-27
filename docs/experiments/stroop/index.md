@@ -1,7 +1,7 @@
 ---
 layout: default
-titile: stroop
-parent: experiments
+titile: Stroop
+parent: Experiments
 ---
 
 # ストループ課題
