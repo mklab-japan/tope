@@ -1,6 +1,6 @@
 ---
 layout: default
-titile: Stroop
+title: Stroop
 parent: Experiments
 ---
 
