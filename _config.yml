@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Open Psychological Experiments
+description: オープンに実行できる心理学実験サイトです。
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mklab-japan.github.io/ope
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
