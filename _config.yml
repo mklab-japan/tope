@@ -13,11 +13,11 @@ nav_enabled: true
 
 callouts:
   memo:
-    titile: "📝メモ"
+    title: "📝メモ"
     color: blue
   warning:
-    titile: "⚠注意"
+    title: "⚠注意"
     color: red
   points:
-    titile: "💡ポイント"
+    title: "💡ポイント"
     color: yellow
