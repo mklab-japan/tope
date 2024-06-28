@@ -4,13 +4,13 @@ layout: home
 nav_order: 1
 ---
 
-# Trinity Open Psychology Experiments(TOPE)とは
+# Trinity Open Psychology Experiments(TOPE)
 
 <img src = "./data/logo.png">
 
 三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）の達成のためにこのサイト「Trinity　Open Psychology Experiments」は作成されました。本プロジェクトは以下のような3つの目標を達成することを目指します。3つの目標は相互に密接に関連しているため，本プロジェクトに「三位一体」の名を冠し，三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）と名づけました。現在はテスト運用中です。
 
-## Trinity Open Psychology Experiments Projectの3つの目標
+## TOPEの3つの目標
 
 ### 1. オープンなオンライン心理学実験の実施環境（Open Experiment）
 
