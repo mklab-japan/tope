@@ -196,12 +196,6 @@ this.options.templateParameters.push
                     "name": "sex"
                   },
                   {
-                    "required": true,
-                    "type": "html",
-                    "content": "\u003Cdiv class = 'content-horizontal-center'\u003E\u003Cbutton id = \"nextBtn\"\u003E次へ\u003C\u002Fbutton\u003E\u003C\u002Fdiv\u003E",
-                    "name": ""
-                  },
-                  {
                     "required": false,
                     "type": "input",
                     "label": "識別コード1",
@@ -214,6 +208,12 @@ this.options.templateParameters.push
                     "label": "識別コード2",
                     "name": "level2_ID",
                     "help": "大学の授業などで指示があった場合にご記入ください（特に指示がない場合は空欄のままでかまいません）"
+                  },
+                  {
+                    "required": true,
+                    "type": "html",
+                    "content": "\u003Cdiv class = 'content-horizontal-center'\u003E\u003Cbutton id = \"nextBtn\"\u003E次へ\u003C\u002Fbutton\u003E\u003C\u002Fdiv\u003E",
+                    "name": ""
                   }
                 ],
                 "scrollTop": true,
