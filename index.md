@@ -6,10 +6,21 @@ nav_order: 1
 
 # Trinity Open Psychology Experiments(TOPE)
 
+<<<<<<< HEAD
+三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）の達成のためにこのサイト「Trinity　Open Psychology Experiments」は作成されました。
+=======
 <img src = "./data/logo.png">
+>>>>>>> 92d722bb1a0311e0ab67a22e2b9cb7e1effb7934
 
+<<<<<<< HEAD
+{: .warning}
+現在はテスト運用中のため，データ収集などには利用しないでください。
+
+## Trinity Open Psychology Experiments Projectとは
+=======
 三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）の一環としてこのサイトを作成しました。
 本プロジェクトは以下のような3つの目標を達成することを目指します。3つの目標が相互に関連するため，本プロジェクトに「三位一体」の名を冠しました。
+>>>>>>> 92d722bb1a0311e0ab67a22e2b9cb7e1effb7934
 
 {: .warning}
 現在はテスト運用中です。
