@@ -8,7 +8,7 @@ nav_order: 1
 
 <img src = "./data/logo.png">
 
-三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）の一環としてこのサイト「Trinity　Open Psychology Experiments」作成されました。
+このサイトは三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）の一環です。
 
 {: .warning}
 現在はテスト運用中のため，データ収集などには利用しないでください。
@@ -36,6 +36,10 @@ nav_order: 1
 ### 注意事項
 
 本サイト及び本プロジェクトは非営利かつ有志によって運営されています。本サイト利用時のトラブルや不利益など（本サイトが利用できない場合に生じた不利益を含む）について，作成者はすべての責任は負いません。ご了承ください。
+
+### 資金源
+
+本プロジェクトは電気通信普及財団及び科学研究補助金の支援を受けています。
 
 ### 問い合わせ先
 
