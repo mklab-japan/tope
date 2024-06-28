@@ -1,0 +1,14 @@
+/* Please define your custom styles here */
+body{
+  font-size: 1.5vh;
+}
+input, button{
+  font-size: 1.5vh;
+}
+.choice {
+  display: inline-block;
+  margin-right: 2px;
+  margin-left: 10px;
+  transform: scale(2);
+  accent-color: #000
+}
