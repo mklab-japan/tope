@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# Open Psychology Experiments（OPE）
+# Trinity Open Psychology Experiments(TOPE)とは
 
-三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）の達成のためにこのサイト「Open Psychology Experiments」は作成されました。現在はテスト運用中です。
+三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）の達成のためにこのサイト「Trinity　Open Psychology Experiments」は作成されました。現在はテスト運用中です。
 
 ## Trinity Open Psychology Experiments Projectとは
 
@@ -30,7 +30,7 @@ nav_order: 1
 
 ### 注意事項
 
-本サイト及び本プロジェクトは非営利かつ有志によって運営されています。本サイトを利用時のトラブルや不利益，何らかの事情によって本サイトが利用できないことで生じた不利益などについては作成者はすべての責任は負いません。
+本サイト及び本プロジェクトは非営利かつ有志によって運営されています。本サイト利用時のトラブルや不利益など（本サイトが利用できない場合に生じた不利益を含む）について，作成者はすべての責任は負いません。
 
 ### 問い合わせ先
 

@@ -1,12 +1,12 @@
-title: OPE
-description: Open Psychological Experiments
+title: TOPE
+description: Trinity Open Psychological Experiments
 theme: just-the-docs
 
-url: https://mklab-japan.github.io/ope
+url: https://mklab-japan.github.io/tope
 
 aux_links:
-  GitHub: https://github.com/mklab-japan/ope
+  GitHub: https://github.com/mklab-japan/tope
 
-color_scheme: ope
+color_scheme: tope
 
 nav_enabled: true
