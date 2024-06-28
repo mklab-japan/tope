@@ -34,8 +34,9 @@ parent: "実験一覧"
 その後，実験中の問題，実験後の除外希望，類似の実験への参加経験について回答を求め，実験を終了した。
 
 ## 前処理・分析のポイント
+一般的な前処理方法は，「前処理」のページをご覧ください。
 
-一致条件と不一致条件の間で正反応時間を比較したい場合は，以下のように条件ごとに正反応時間を抽出してください。
+ストループ課題において，一致条件と不一致条件の間で正反応時間を比較したい場合は，以下のように条件ごとに正反応時間を抽出してください。
 
 1. 反応画面（sender = "item"）のデータのみを抽出
 2. 正反応（correct = 1）のみを抽出
@@ -46,7 +47,7 @@ parent: "実験一覧"
 
 ### ダウンロード
 
-以下のURL,もしくは[GitHubレポジトリ](https://github.com/mklab-japan/ope)の「docs/experiments>stroop>source」からダウンロードできます。
+以下のURL,もしくは[GitHubレポジトリ](https://github.com/mklab-japan/ope)の「docs/experiments/stroop/source」からもダウンロードできます。
 
 <a href = "./source/stroop_ope_public.json" download>実験プログラムをダウンロード</a>
 
