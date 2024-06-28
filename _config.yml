@@ -18,6 +18,6 @@ callouts:
   warning:
     title: "⚠注意"
     color: red
-  points:
+  point:
     title: "💡ポイント"
     color: yellow
