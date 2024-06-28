@@ -15,24 +15,20 @@ parent: "実験一覧"
 
 以下の「スタート」ボタンをクリックするとストループ課題を実施できます。
 
-<<<<<<< HEAD
-[ストループ課題を起動](./exp/){: .btn .btn-blue}
-=======
 [スタート](./exp/){: .btn .btn-blue}
->>>>>>> 92d722bb1a0311e0ab67a22e2b9cb7e1effb7934
 
 {: .note}
 授業などでURLを配布したい場合は https://mklab-japan.github.io/tope/docs/experiments/stroop/exp/ のURLをご利用ください。
 
 ## 実験プログラム
 
-### ダウンロード
+### 実験プログラムのダウンロード
 
 以下のURL,もしくは[GitHubレポジトリ](https://github.com/mklab-japan/ope)の「docs/experiments/stroop/source」からもダウンロードできます。
 
 <a href = "./source/stroop_ope_public.json" download>実験プログラムのダウンロード</a>{: .btn .btn-green}
 
-### カスタマイズ
+### 実験プログラムのカスタマイズ
 
 lab.jsのTemplate機能を用いています。mainBlockコンポーネントのnTrialsの値を変更することで試行数は簡単に変更可能できます。詳しくはプログラムをご確認ください。
 
@@ -52,11 +48,7 @@ lab.jsのTemplate機能を用いています。mainBlockコンポーネントの
 はじめに事前説明を呈示した上で参加者からインフォームドコンセントを取得した上で実験を実施した。実験では，画面中央に注視点を500ms呈示後，一致条件または不一致条件の刺激を呈示した。参加者には単語の文字色の回答を求めた。色名に対応する選択肢をチェックした上で「OK」ボタンを押すことで回答できるようになっていた。その後，500msの試行間間隔を挟み，次の試行へ移った。このような試行を1試行とし，1ブロック24試行とした。練習8試行後に2ブロック（計48試行）を本試行として実施した。
 その後，実験中の問題，実験後の除外希望，類似の実験への参加経験について回答を求め，実験を終了した。
 
-<<<<<<< HEAD
-## 前処理・分析のポイント
-=======
 ## 公開データ
->>>>>>> 92d722bb1a0311e0ab67a22e2b9cb7e1effb7934
 
 {: .warning}
 現在はテスト運用中のため，動作確認用のデータ収集やデータの消去などを行うことがあります。データの教育・研究での利用はお控えください。
@@ -65,7 +57,7 @@ lab.jsのTemplate機能を用いています。mainBlockコンポーネントの
 
 [ストループ課題のオープンデータはこちら](https://osf.io/d8tmu/){: .btn .btn-green}
 
-{: .note}
+{: .point}
 参加者データごとにcsvファイルが格納されているため，「OSF Storage（Australia - Sydney)」を選択して，「Download as zip」でZip形式で一括ダウンロードすることをオススメします。
 
 ### 前処理・分析のポイント
@@ -77,31 +69,5 @@ lab.jsのTemplate機能を用いています。mainBlockコンポーネントの
 3. 一致条件（condition = congruent）と不一致条件（condition = incongruent）の反応時間（duration）を抽出
 4. 一致条件と不一致条件の平均正反応時間を比較
 
-<<<<<<< HEAD
 {: .point}
 一般的な前処理方法は，「前処理」のページをご覧ください。
-
-## 実験プログラム
-
-### ダウンロード
-
-以下のURL,もしくは[GitHubレポジトリ](https://github.com/mklab-japan/ope)の「docs/experiments/stroop/source」からもダウンロードできます。
-
-<a href = "./source/stroop_ope_public.json" download>実験プログラムをダウンロード</a>{: .btn .btn-outline}
-
-### カスタマイズ
-
-lab.jsのTemplate機能を用いています。mainBlockコンポーネントのnTrialsの値を変更することで試行数は簡単に変更可能できます。詳しくはプログラムをご確認ください。
-
-## 公開データ
-
-{: .warning}
-現在はテスト運用中です。動作確認のためのデータを保存したりしているので，教育・研究用への利用はお控えください。テスト運用中に収集したデータは消去する可能性もあります。
-
-これまでに蓄積されたオープンデータは以下のOSFで公開しています。~~検証実験で用いたデータ（N = 881)を1ファイルにまとめたもの(validationData.csv）も含まれています。~~それ以外のデータは自動的に追加されていきます。
-
-[ストループ課題オープンデータ](https://osf.io/d8tmu/){: .btn .btn-green}
-=======
-{: .point}
-~~一般的な前処理方法は，「前処理」のページをご覧ください。~~
->>>>>>> 92d722bb1a0311e0ab67a22e2b9cb7e1effb7934
