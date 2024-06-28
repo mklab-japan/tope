@@ -1,6 +1,7 @@
 title: TOPE
 description: Trinity Open Psychological Experiments
 theme: just-the-docs
+logo: "./data/logo.png"
 
 url: https://mklab-japan.github.io/tope
 
@@ -10,3 +11,8 @@ aux_links:
 color_scheme: tope
 
 nav_enabled: true
+
+callouts: 
+  note: 
+    title: note
+    color: blue

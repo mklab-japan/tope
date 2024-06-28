@@ -15,7 +15,7 @@ parent: "実験一覧"
 
 以下のURLをクリックするとストループ課題を実施できます。
 
-[ストループ課題を行う](./exp/)
+[ストループ課題スタート](./exp/){: .btn .btn-blue}
 
 ## 方法
 
@@ -43,13 +43,15 @@ parent: "実験一覧"
 3. 一致条件（condition = congruent）と不一致条件（condition = incongruent）の反応時間（duration）を抽出
 4. 一致条件と不一致条件の平均正反応時間を比較
 
+{: .note}
+
 ## 実験プログラム
 
 ### ダウンロード
 
 以下のURL,もしくは[GitHubレポジトリ](https://github.com/mklab-japan/ope)の「docs/experiments/stroop/source」からもダウンロードできます。
 
-<a href = "./source/stroop_ope_public.json" download>実験プログラムをダウンロード</a>
+<a href = "./source/stroop_ope_public.json" download>実験プログラムをダウンロード</a>{: .btn .btn-outline}
 
 ### カスタマイズ
 
@@ -59,4 +61,4 @@ lab.jsのTemplate機能を用いています。mainBlockコンポーネントの
 
 これまでに蓄積されたオープンデータは以下のOSFで公開しています。~~検証実験で用いたデータ（N = 881)を1ファイルにまとめたもの(validationData.csv）も含まれています。~~それ以外のデータは自動的に追加されていきます。
 
-[ストループ課題オープンデータ](https://osf.io/d8tmu/)
+[ストループ課題オープンデータ](https://osf.io/d8tmu/){: .btn .btn-green}
