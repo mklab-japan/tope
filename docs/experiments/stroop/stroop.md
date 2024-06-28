@@ -51,7 +51,7 @@ parent: "実験一覧"
 
 以下のURL,もしくは[GitHubレポジトリ](https://github.com/mklab-japan/ope)の「docs/experiments/stroop/source」からもダウンロードできます。
 
-<a href = "./source/stroop_ope_public.json" download>実験プログラムをダウンロード</a>{: .btn .btn-outline}
+<a href = "./source/stroop_ope_public.json" download>実験プログラムをダウンロード</a>{: .btn .btn-green}
 
 ### カスタマイズ
 
