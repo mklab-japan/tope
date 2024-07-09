@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ストループ課題オープンデータ"
+title: "オープンデータ"
 parent: "ストループ課題"
 grand_parent: "調査・実験一覧"
 ---
@@ -19,14 +19,6 @@ grand_parent: "調査・実験一覧"
 {: .point}
 参加者データごとにcsvファイルが格納されているため，「OSF Storage（Australia - Sydney)」を選択して，「Download as zip」でZip形式で一括ダウンロードすることをオススメします。
 
-### 前処理・分析のポイント
+## 前処理・分析
 
-ストループ課題において，一致条件と不一致条件の間で正反応時間を比較したい場合は，以下のように条件ごとに正反応時間を抽出してください。
-
-1. 反応画面（sender = "item"）のデータのみを抽出
-2. 正反応（correct = 1）のみを抽出
-3. 一致条件（condition = congruent）と不一致条件（condition = incongruent）の反応時間（duration）を抽出
-4. 一致条件と不一致条件の平均正反応時間を比較
-
-{: .point}
-一般的な前処理方法は，「前処理」のページをご覧ください。
+[方法・前処理](./methods.html##前処理分析)を参照してください。

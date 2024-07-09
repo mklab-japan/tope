@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ストループ課題の方法と公開データ"
+title: "スタートページ"
 parent: "ストループ課題"
 grand_parent: "調査・実験一覧"
 ---
