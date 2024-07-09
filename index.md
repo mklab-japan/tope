@@ -6,14 +6,14 @@ nav_order: 1
 
 # Trinity Open Psychology Experiments(TOPE)
 
-<img src = "./data/logo.png">
-
 このサイトは三位一体オープン心理学実験プロジェクト（Trinity Open Psychology Experiments Project）の一環です。
 
 {: .warning}
 現在はテスト運用中のため，データ収集などには利用しないでください。
 
 ## TOPEの3つの目標
+
+<img src = "./data/logo.png">
 
 ### 1. オープンなオンライン心理学実験の実施環境（Open Experiment）
 
